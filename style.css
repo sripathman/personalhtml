@@ -33,7 +33,7 @@ body {
   h1 {
     color: #00c853;
     margin: 0;
-    align-item: center;
+    align-items: center;
   
     font-size: 2rem;
   }
@@ -52,7 +52,7 @@ body {
   .hero-inner {
     background-color: #b2ebf2;
   }
-  img {
+  .pic {
     border-radius: 70%;
   }
   .image {
